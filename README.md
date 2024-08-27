@@ -3,7 +3,7 @@ A tool that performs linear regression on two columns from a CSV file and output
 
 Requirements:
 
-pip3 install pandas numpy matplotlib seaborn scipy
+pip3 install pandas numpy matplotlib seaborn
 
 Usage:
 
