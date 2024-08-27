@@ -9,7 +9,7 @@ Usage:
 
 python3 linear_regression.py salary_data.csv YrExp Salary
 
-Test : tested on 100 line as this : Age, Salary, Experience, Satisfaction, Department
+Test : tested on 30 line as this : Years of Experience, Salary
 
 ![image](https://github.com/user-attachments/assets/16e03794-04dd-4663-bf38-4b877876482d)  ![image](https://github.com/user-attachments/assets/52f22588-4402-4fe5-b0e0-ff417a691b8c)
 
